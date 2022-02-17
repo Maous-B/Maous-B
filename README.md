@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python and Java, and everything 
 - 📫 How to reach me: discord - r e d#9482
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I created my GitHub page to post my python maths homework from high school, now I use my page to post real programs now. 😄 I love to listen heavy/death/symphonic metal, rock and love to listen to music for several hours
-
+- ⚡ Fun fact: I created my GitHub page to post my python maths homework from high school, now I use my page to post real programs now. 😄 I love to listen heavy/death/symphonic metal, rock and love to listen to music. I love animes
 
 Languages and Tools :
 
