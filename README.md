@@ -1,7 +1,5 @@
 ### Hey, I'm Maous-B, a.k.a Maous-BOT 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python softwares
 - 🌱 I’m currently learning Python and Java
 - 👯 I’m not looking to collaborate on projects for the moment
