@@ -1,7 +1,7 @@
 ### Hey, I'm Maous-B, a.k.a Maous-BOT 👋
 
 - 🔭 I’m currently working on Python softwares
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and Java, and everything 
 - 👯 I’m not looking to collaborate on projects for the moment
 - 🤔 I’m not looking for help
 - 💬 Ask me about Python and Java
