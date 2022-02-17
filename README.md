@@ -7,5 +7,5 @@
 - 💬 Ask me about Python and Java
 - 📫 How to reach me: discord - r e d#9482
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I created my GitHub page to post my python homework from college
+- ⚡ Fun fact: I created my GitHub page to post my python maths homework from high school
 -->
