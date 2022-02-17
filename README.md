@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I created my GitHub page to post my python maths homework from high school, now I use my page to post real programs now. 😄
 
--->
+[Maous-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maous-B)
