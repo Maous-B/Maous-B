@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I created my GitHub page to post my python maths homework from high school, now I use my page to post real programs now. 😄
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maous-B&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maous-B)">
+<img src="https://github-readme-stats.vercel.app/api?username=Maous-B&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maous-B">
