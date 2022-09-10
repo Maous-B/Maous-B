@@ -1,7 +1,7 @@
 ### Hey, I'm Maous-B, a.k.a Maous-BOT 👋
 
 - 🔭 I’m currently working on Python softwares
-- 🌱 I’m currently learning Python and Java, and everything 
+- 🌱 I’m currently learning Java, HTML, PHP
 - ⚡ Fun fact : I created my GitHub page to post my python maths homework from high school, now I use my page to post real programs now. 😄 I love to listen heavy/death/symphonic metal, rock and love to listen to music. I love animes.
 
 Languages and Tools :
