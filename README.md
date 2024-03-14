@@ -1,4 +1,4 @@
-### Hey, I'm Maous-B, a.k.a Maous-BOT 👋
+### Hey, I'm Maous-B 👋
 
 - 🔭 I’m currently working on Python softwares
 - 🌱 I’m currently learning Java, HTML, PHP
